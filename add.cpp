@@ -4,6 +4,8 @@
 {
     /* code */
     cout << "Today";
+    cout<<endl;
+   
     return 0;
 }
 )
